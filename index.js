@@ -53,4 +53,6 @@ exIcon.addEventListener("click", () => {
         imgTag.src = `https://flagcdn.com/48x36/${Country_List[code].toLowerCase()}.png`;
     });
     getExchangeRate();
-});
+})
+
+//Testing
